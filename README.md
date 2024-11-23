@@ -42,7 +42,7 @@
 
 ## About Me
 
-I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, in areas like medical imaging.
+I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
 
 - 🌱 **Currently learning:** Advanced AI techniques and their applications.
 - 🔭 **Working on:** Projects involving XAI methods and AI-driven healthcare solutions.
