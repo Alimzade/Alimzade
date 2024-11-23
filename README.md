@@ -27,6 +27,7 @@
   <img src="http://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white">
 </div>
 
 <div>
