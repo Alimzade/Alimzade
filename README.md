@@ -54,4 +54,4 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
 
 ![Anar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alimzade&show_icons=true&theme=default)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimzade&" alt="Alimzade" /></p>
+<!---<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimzade&" alt="Alimzade" /></p>-->
