@@ -7,6 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
 
+## About Me
+
+I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
+
+- 🌱 **Currently learning:** Advanced AI techniques and their applications.
+- 🔭 **Working on:** Thesis on Explainable AI in Image-Based ML
+- 🌐 **Website:** [alimzade.com](https://alimzade.com)
+
+  
+
 ## Skills & Tools 🚀
 
 <div>
@@ -40,14 +50,6 @@
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
 </div>
-
-## About Me
-
-I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
-
-- 🌱 **Currently learning:** Advanced AI techniques and their applications.
-- 🔭 **Working on:** Thesis on Explainable AI in Image-Based ML
-- 🌐 **Website:** [alimzade.com](https://alimzade.com)
 
 
 ## GitHub Stats 📊
