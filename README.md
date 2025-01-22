@@ -3,6 +3,7 @@
 # 👋 Hi there! I'm **Anar Alimzade**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Alimzade)
 [![GitHub Followers](https://img.shields.io/github/followers/Alimzade?style=for-the-badge)](https://github.com/Alimzade?tab=followers)
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
@@ -12,7 +13,7 @@
 I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
 
 - 🌱 **Currently learning:** Advanced AI techniques and their useful applications.
-- 🔭 **Working on:** Python-based benchmarking tool to evaluate explainable AI (XAI) techniques for interpreting image-based predictions & a project for React Native mobile application.
+- 🔭 **Working on:** Python-based benchmarking tool to evaluate explainable AI (XAI) techniques for interpreting image-based predictions & multiple React Native mobile applications.
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
 
   
@@ -51,9 +52,14 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
 </div>
 
+## Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alimzade&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats 📊
 
 ![Anar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alimzade&show_icons=true&theme=default)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimzade&" alt="Alimzade" /></p>
+
+
