@@ -13,7 +13,7 @@
 I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
 
 - 🌱 **Currently learning:** Advanced AI techniques and their useful applications.
-- 🔭 **Working on:** Python-based benchmarking tool to evaluate explainable AI (XAI) techniques for interpreting image-based predictions & multiple React Native mobile applications.
+- 🔭 **Working on:** Python-based benchmarking tool to evaluate explainable AI (XAI) techniques for interpreting image-based predictions & multi-functional full-stack React Native mobile application.
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
 
   
@@ -26,6 +26,7 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
@@ -38,6 +39,7 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white">
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white">
 </div>
