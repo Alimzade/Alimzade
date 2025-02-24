@@ -35,6 +35,7 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white">
+  ...
 </div>
 
 <div>
@@ -48,6 +49,7 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+  ...
 </div>
 
 <div>
@@ -57,6 +59,7 @@ I'm an **AI Engineering Master's student** with a passion for exploring the limi
   <img src="https://img.shields.io/badge/-Seaborn-45b8ac?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  ...
 </div>
 
 ## Trophies 🏆
