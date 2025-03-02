@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there! I'm **Anar Alimzade**
+# 👋 Hi! I'm **Anar Alimzade**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Alimzade)
 [![GitHub Followers](https://img.shields.io/github/followers/Alimzade?style=for-the-badge)](https://github.com/Alimzade?tab=followers)
 
