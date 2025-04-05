@@ -13,7 +13,7 @@
 I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
 
 - 🌱 **Currently learning:** Mobile Application Development (React Native)
-- 🔭 **Working on:** `AI-based Employee Hiring Web App`
+- 🔭 **Working on:** `AI-based Employee Candidate Listing Web App`
     
   **&** `Multi-functional Full-stack React Native mobile application`
     
