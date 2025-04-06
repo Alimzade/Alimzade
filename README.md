@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm an **AI Engineering Master's student** with a passion for exploring the limitless possibilities of artificial intelligence and machine learning. My focus lies in applying AI to solve real-world problems, especially in areas like medical imaging.
+I'm an **Junior AI Engineer** skilled in *MOBILE* and *WEB* App development. My interest lies in development of useful applications and/or applying AI to solve real-world problems, especially in areas like medical imaging.
 
 - 🌱 **Currently learning:** Mobile Application Development (React Native)
 - 🔭 **Working on:** `AI-based Employee Candidate Listing Web App`
