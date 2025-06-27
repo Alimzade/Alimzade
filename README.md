@@ -18,7 +18,6 @@ I'm an **Junior AI Engineer** skilled in *MOBILE* and *WEB* app development. My 
     
   **&** `Multi-functional Full-stack React Native mobile application`
     
-  **&** `Benchmarking tool to evaluate explainable AI (XAI) techniques for interpreting image-based predictions`.
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
 
   
