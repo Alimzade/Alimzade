@@ -10,10 +10,13 @@
 
 ## About Me
 
-I'm an **Junior AI Engineer** skilled in *MOBILE* and *WEB* app development. My interest lies in development of useful applications and/or applying AI to solve real-world problems, especially in areas like medical imaging.
+I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* and *WEB* app development. My interest lies in developing useful applications and applying AI to solve real-world problems.
 
-- 🌱 **Currently learning:** React Native, Vibe Coding
-- 🔭 **Working on:** `AI-based Employee Candidate Listing Web App` 
+- 🌱 **Currently learning:** React Native, Vibe Coding, Full-Stack Web Applications
+- 🔭 **Working on:**
+
+  `AI-based Employee Candidate Listing Web App` 
+
   **&** `Mobile Radio Application`
     
   **&** `Multi-functional Full-stack React Native mobile application`
