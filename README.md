@@ -13,13 +13,6 @@
 I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* and *WEB* app development. My interest lies in developing useful applications and applying AI to solve real-world problems.
 
 - 🌱 **Currently learning:** AI Agents, React Native, Vibe Coding, Full-Stack Web Applications
-- 🔭 **Working on:**
-
-  `AI-based Employee Candidate Listing Web App` 
-
-  **&** `Mobile Radio Application`
-    
-  **&** `Multi-functional Full-stack React Native mobile application`
     
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
 
