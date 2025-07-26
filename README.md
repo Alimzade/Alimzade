@@ -49,12 +49,12 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
 
+<img src="https://img.shields.io/badge/-Seaborn-45b8ac?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Seaborn-45b8ac?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 </div>
 
 ## Trophies 🏆
