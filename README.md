@@ -22,15 +22,15 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 
 <div>
 <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
- <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
- <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
- <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
- <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
- <img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
- <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
