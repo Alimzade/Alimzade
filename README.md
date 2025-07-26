@@ -32,8 +32,8 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 
 <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
