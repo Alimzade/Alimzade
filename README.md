@@ -34,9 +34,7 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-</div>
 
-<div>
 <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
 <img src=https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white>
@@ -50,9 +48,7 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
-</div>
 
-<div>
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white">
