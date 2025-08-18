@@ -3,7 +3,7 @@
 
 I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* and *WEB* app development. My interest lies in developing useful applications and applying AI to solve real-world problems.
 
-- 🌱 **Currently learning:** AI Agents, React Native, Vibe Coding, Full-Stack Web Applications
+- 🌱 **Currently learning:** AI Agents, AWS, Vibe Coding, Full-Stack Web Applications
     
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
