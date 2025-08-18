@@ -1,12 +1,3 @@
-<div align="center">
-  
-# 👋 Hi! I'm **Anar Alimzade**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Alimzade)
-[![GitHub Followers](https://img.shields.io/github/followers/Alimzade?style=for-the-badge)](https://github.com/Alimzade?tab=followers)
-
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
 
 ## About Me
 
@@ -15,8 +6,8 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 - 🌱 **Currently learning:** AI Agents, React Native, Vibe Coding, Full-Stack Web Applications
     
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
 
-  
 
 ## Skills & Tools 🚀
 
@@ -61,9 +52,7 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in *MOBILE* an
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alimzade&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Stats 📊
-
-![Anar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alimzade&show_icons=true&theme=default)
+## Live Stats 📊
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimzade&" alt="Alimzade" /></p>
 
