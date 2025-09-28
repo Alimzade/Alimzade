@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
 
 ## About Me
 
@@ -6,7 +7,6 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in web and mob
 - 🌱 **Currently learning:** LLMs, AI Agents, AWS, Vibe Coding, Full-Stack Web Applications
     
 - 🌐 **Website:** [alimzade.com](https://alimzade.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimzade&label=Profile%20views&color=0e75b6&style=flat" alt="Alimzade" /> </p>
 
 
 ## Skills & Tools 🚀
