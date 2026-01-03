@@ -47,13 +47,3 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in web and mob
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white">
 </div>
-
-## Trophies 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alimzade&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Live Stats 📊
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimzade&" alt="Alimzade" /></p>
-
-
