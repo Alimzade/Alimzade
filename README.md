@@ -6,7 +6,7 @@ I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in web and mob
 
 - 🌱 **Currently learning:** LLMs, AI Agents, LangGraph, AWS, Full-Stack Web Applications, React Native
     
-- 🌐 **Website:** [alimzade.com](https://alimzade.com)
+- 🌐 **Portfolio:** [alimzade.com](https://alimzade.com)
 
 
 ## Skills & Tools 🚀
