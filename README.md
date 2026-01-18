@@ -4,7 +4,7 @@
 
 I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in web and mobile application development. My interest lies in developing useful applications and applying AI to solve real-world problems.
 
-- 🌱 **Currently learning:** LLMs, AI Agents, LangGraph, AWS, Full-Stack Web Applications, React Native
+- 🌱 **Currently learning:** AI Agents, LangGraph, AWS, Full-Stack Applications
     
 - 🌐 **Portfolio:** [alimzade.com](https://alimzade.com)
 
