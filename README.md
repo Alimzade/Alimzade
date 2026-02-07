@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Junior AI Engineer** and **Full-Stack Developer in making** skilled in web and mobile application development. My interest lies in developing useful applications and applying AI to solve real-world problems.
+I'm a **Junior AI Engineer** and **Full-Stack Developer** skilled in web and mobile application development. My interest lies in developing useful applications and applying AI to solve real-world problems.
 
 - 🌱 **Currently learning:** AI Agents, LangGraph, AWS, Backend Engineering
     
